@@ -114,8 +114,11 @@ I design and develop high-performance applications with clean architecture, bala
         <br />
         <h4>🛒 Youthes E-Commerce (Full Stack)</h4>
         <h6><strong>Description:</strong> A production-ready system featuring a Node/Express API with JWT Auth, an Angular Storefront, and a comprehensive Admin Dashboard.</h6>
-        📂 <a href="https://github.com/abdallah223/youthes-store-client" target="_blank">Frontend Repo</a> | 
+        📂 <a href="https://github.com/abdallah223/youthes-ecommerce-client-phase1" target="_blank">Frontend Repo</a> | 
         📂 <a href="https://github.com/abdallah223/youthes-ecommerce-backend-phase1" target="_blank">Backend Repo</a>
+        🌐 <a href="https://youthes-ecommerce-client-phase1.vercel.app/" target="_blank">Live Demo</a>
+        📚 <a href="https://youthes-api.duckdns.org/docs/" target="_blank">API Docs</a>
+        
       </td>
       <td width="50%" valign="top">
         <a href="https://cinezone-site.netlify.app/" target="_blank">
